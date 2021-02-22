@@ -37,4 +37,3 @@ Steps to install [Detectron2][df] on Raspberry Pi
   ```
   
   - ¯\\\_(ツ)\_/¯
-  
