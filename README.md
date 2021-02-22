@@ -1,7 +1,8 @@
 # Detectron2-on-Raspberry-Pi
-Steps to install [Detectron2][df] on Raspberry Pi
+Steps to [install][df11] [Detectron2][df] on Raspberry Pi
 
 [df]: <https://github.com/facebookresearch/detectron2>
+[df11]: <https://detectron2.readthedocs.io/en/latest/tutorials/install.html>
 
   1- Install PyTorch dependencies first
   ```sh
