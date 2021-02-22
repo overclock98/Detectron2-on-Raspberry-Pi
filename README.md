@@ -30,5 +30,10 @@ Steps to install Detectron2 on Raspberry Pi
   $ python -m pip install -e detectron2
   ```
   
+  If you face "matplotlib.cbook.TimeoutError: LOCKERROR" while importing matplotlib
+  ```sh
+  $ rm -r /home/pi/.cache/matplotlib
+  ```
+  
   - ¯\\\_(ツ)\_/¯
   
